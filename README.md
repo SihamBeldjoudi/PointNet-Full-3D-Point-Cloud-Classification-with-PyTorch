@@ -10,6 +10,9 @@ This project implements PointNet (and simplified variants) for 3D point cloud cl
 - **PointNetBasic** — a basic PointNet without T-Net  
 - **PointNetFull** — full architecture with **Transformation Network (T-Net)** and regularization
 
+Based on the original research paper:
+Charles R. Qi et al., “PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation”, CVPR 2017.
+
 ### Key Components
 - Read/write support for `.ply` point cloud files  
 - `PointCloudData` dataset class for train/test split  
