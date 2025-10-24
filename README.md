@@ -18,7 +18,11 @@ This project implements PointNet (and simplified variants) for 3D point cloud cl
   - `pointnet_full_loss` for PointNetFull (with matrix regularization)  
 - `train()` function for full training & evaluation loop  
 
+
+<img width="769" height="640" alt="image" src="https://github.com/user-attachments/assets/318e3fe4-b153-48db-a320-540cd2dc1b3b" />
+
 ---
+
 
 ## Installation
 
